@@ -1,0 +1,1 @@
+C:\Users\CANDELA\source\repos\WeatherApp\WeatherApp\WeatherApp.csproj;x64
